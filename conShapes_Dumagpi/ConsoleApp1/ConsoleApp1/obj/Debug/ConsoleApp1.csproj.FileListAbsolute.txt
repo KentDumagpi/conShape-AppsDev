@@ -1,0 +1,8 @@
+Z:\QQ111\conShapes_Dumagpi\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+Z:\QQ111\conShapes_Dumagpi\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+Z:\QQ111\conShapes_Dumagpi\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+Z:\QQ111\conShapes_Dumagpi\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+Z:\QQ111\conShapes_Dumagpi\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.SuggestedBindingRedirects.cache
+Z:\QQ111\conShapes_Dumagpi\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+Z:\QQ111\conShapes_Dumagpi\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+Z:\QQ111\conShapes_Dumagpi\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
